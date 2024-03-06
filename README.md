@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/augmatos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=augmatos&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=augmatos&show_icons=true&theme=dracula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augmatos&layout=compact&langs_count=7&theme=dracula&include_all_commits=true"/>
 </div>
   <div style="display: inline_block"><br>
